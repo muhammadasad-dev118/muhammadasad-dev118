@@ -64,5 +64,5 @@
 
 ---
 <p align="center">
-  <b>Let's Build the Future:</b> [Your Email] | [LinkedIn] | [Portfolio]
+  <b>Let's Build the Future:</b> [muhmadasad106@gmail.com]  
 </p>
