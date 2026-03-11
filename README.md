@@ -5,7 +5,7 @@
 
 ---
 
-### 📊 Professional Synopsis (ATS Friendly)
+### 📊 Professional Synopsis 
 **Highly skilled Software Engineer (Self-taught, 2021-2026)** with a deep focus on **Monolithic & Microservices architecture**. Specialized in **PHP Laravel Ecosystem** and **Automated Infrastructure**. I transform complex business logic into scalable digital ecosystems.
 
 - 🏗️ **Architectural Pattern:** MVC, Repository Pattern, Dependency Injection.
